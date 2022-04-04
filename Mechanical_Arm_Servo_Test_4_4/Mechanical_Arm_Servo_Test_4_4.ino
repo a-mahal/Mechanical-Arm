@@ -22,5 +22,6 @@ void loop() {
   Serial.println(T);             /* lgs what the value of T is */
 
   myservo.write(T);              /* controls servo position*/
-  /* hello8*/
+
+  /* This is a comment from jean */
 }
